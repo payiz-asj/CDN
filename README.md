@@ -1,2 +1,2 @@
 # CDN
-My jsdelivr-CDN repository.
+My jsdelivr-CDN repository...
